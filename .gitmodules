@@ -1,3 +1,6 @@
 [submodule "feathers"]
 	path = feathers
 	url = https://github.com/joshtynjala/feathers
+[submodule "feathers-examples"]
+	path = feathers-examples
+	url = https://github.com/joshtynjala/feathers-examples
