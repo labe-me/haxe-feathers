@@ -1,0 +1,3 @@
+[submodule "feathers"]
+	path = feathers
+	url = https://github.com/joshtynjala/feathers

@@ -1,0 +1,7 @@
+<project name="feathers" url="https://github.com/labe-me/haxe-starling" license="MIT">
+  <user name=""/>
+  <tag v="flash"/>
+  <description>Feathers</description>
+  <version name="1.0.0">Init</version>
+  <depends name="starling"/>
+</project>
