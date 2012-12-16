@@ -1,8 +1,8 @@
 haxe-feathers
 =============
 
-  haxelib install starling https://github.com/labe-me/haxe-starling haxelib
-  haxelib install feathers https://github.com/labe-me/haxe-feathers haxelib
+  haxelib git starling https://github.com/labe-me/haxe-starling haxelib
+  haxelib git feathers https://github.com/labe-me/haxe-feathers haxelib
 
 Or
 
