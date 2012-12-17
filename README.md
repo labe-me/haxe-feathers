@@ -23,4 +23,4 @@ The lib includes the four example themes (compiled as separate and optional SWF)
 - Feathers-MetalWorksMobileTheme.swf
 - Feathers-MinimalMobileTheme.swf
 
-Add **-swf-lib <SelectedSWF>.swf** to your compile arguments if you intend to use one of these themes. See test Makefile.
+Add **-swf-lib SelectedThemeSWF.swf** to your compile arguments if you intend to use one of these themes. See test Makefile.
